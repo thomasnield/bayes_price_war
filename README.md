@@ -13,3 +13,4 @@ Structure: As a retailer, when I launch a series of sales on Products 1-4, over 
 
 The intitial estimate probabilty of a match will be 60%, an undercut 20%, and walk away 20%
 
+![](https://i.imgur.com/oz4mWV8.png)
