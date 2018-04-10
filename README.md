@@ -9,7 +9,7 @@ Structure: As a retailer, when I launch a series of sales on Products 1-4, over 
 * A competitor will match/undercut me
 * A competitor will match/undercut on a specific product
 * A specific competitor will match/undercut
-* a specific competitor will match/undercut on a specific product
+* A specific competitor will match/undercut on a specific product
 
 The intitial estimate probabilty of a match will be 60%, an undercut 20%, and walk away 20%
 
